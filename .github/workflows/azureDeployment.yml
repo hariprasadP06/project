@@ -4,7 +4,7 @@ on:
     tags:
       - "*"
 env:
-  AZURE_REGION: southindia
+  AZURE_REGION: centralindia
   RESOURCE_GROUP: mindOs
   CONTAINER_APPS_ENVIRONMENT: FirstBrainContainerAppsEnvironmentp
   LOG_ANALYTICS_WORKSPACE: FirstBrainLogAnalyticsWorkspacep
