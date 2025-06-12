@@ -6,7 +6,7 @@ on:
 env:
   AZURE_REGION: centralindia
   RESOURCE_GROUP: mindOs
-  CONTAINER_APPS_ENVIRONMENT: FirstBrainContainerAppsEnvironmentp
+  CONTAINER_APPS_ENVIRONMENT: FirstBrainContainerAppsEnvironment
   LOG_ANALYTICS_WORKSPACE: FirstBrainLogAnalyticsWorkspacep
   ACR_REGISTRY: firstbrainharip.azurecr.io
   ACR_REPOSITORY_NAME: firstbrainp
