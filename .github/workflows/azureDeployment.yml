@@ -6,11 +6,11 @@ on:
 env:
   AZURE_REGION: southindia
   RESOURCE_GROUP: mindOs
-  CONTAINER_APPS_ENVIRONMENT: First-BrainContainerAppsEnvironment
-  LOG_ANALYTICS_WORKSPACE: First-BrainLogAnalyticsWorkspace
-  ACR_REGISTRY: first-brainhari.azurecr.io
-  ACR_REPOSITORY_NAME: first-brain
-  CONTAINER_APP_NAME: first-brain
+  CONTAINER_APPS_ENVIRONMENT: FirstBrainContainerAppsEnvironment
+  LOG_ANALYTICS_WORKSPACE: FirstBrainLogAnalyticsWorkspace
+  ACR_REGISTRY: firstbrainhari.azurecr.io
+  ACR_REPOSITORY_NAME: firstbrain
+  CONTAINER_APP_NAME: firstbrain
   TARGET_PORT: 3000
 jobs:
   build-and-deploy:
